@@ -22,4 +22,4 @@ Product Wise Sales (Column Chart): Shows a breakdown of specific items, includin
 Sales By Sales Rep (Bar Chart): Ranks individual performance (Tara, Leila, Laxmi, etc.).
 
 Month-Wise Sales (Horizontal Bar Chart): This appears to show the total sales for every month of the year for comparison.
-! [image] (excel dash.png)
+! [image alt(https://github.com/suhailapathoor35-dotcom/COMPREHENSIVE-SALES-ANALYSIS-DASHBOARD/blob/main/excel%20dash.png?raw=true)
