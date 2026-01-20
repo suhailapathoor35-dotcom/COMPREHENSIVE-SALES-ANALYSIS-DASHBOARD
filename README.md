@@ -1,5 +1,5 @@
 # COMPREHENSIVE-SALES-ANALYSIS-DASHBOARD
-This image is a Comprehensive Sales Analysis Dashboard, likely built in Excel. It provides a visual breakdown of sales performance across several dimensions like geography, product, and personnel.
+This project is a Comprehensive Sales Analysis Dashboard, likely built in Excel. It provides a visual breakdown of sales performance across several dimensions like geography, product, and personnel.
 
 Here is a summary of what the data is showing:
 
